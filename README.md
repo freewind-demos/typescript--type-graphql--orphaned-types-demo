@@ -9,3 +9,5 @@ TypeScript "type-graphql" Orphaned Types Demo
 npm install
 npm run demo
 ```
+
+查看`dist/schema.graphql`，里面有生成的`MyOrphanedType`定义。
